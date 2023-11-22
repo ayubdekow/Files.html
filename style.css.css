@@ -1,0 +1,45 @@
+.heading{
+    color: brown;
+}
+body{
+    color: blue;
+}
+body{
+    background-color: bisque;
+}
+body{
+    font-family: arial,sans-serif;
+    padding: 20px;
+}
+h1{
+    color: #333;
+    text-align: center;
+}
+h3{
+    color: #666;
+    text-align: center;
+}
+img{
+    display: block;
+    margin: 20px auto;
+    border-radius: 8px;
+}
+p{
+    color: #555;
+    text-align: center;
+}
+hr{
+    border: none;
+    border-top: 2px solid #ccc;
+    margin-left: 40px;
+}
+h2{
+    color: #333;
+}
+ul, ol{
+    color: #555;
+    margin-left: 40px;
+}
+li{
+    margin-bottom: 10px;
+}
